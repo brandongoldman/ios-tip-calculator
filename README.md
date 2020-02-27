@@ -1,1 +1,1 @@
-# ios-tip-calculator
+# ios-training
